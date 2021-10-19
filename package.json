@@ -1,0 +1,25 @@
+{
+  "name": "practicabackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cneme23/practicaBackend.git"
+  },
+  "author": "carlos neme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cneme23/practicaBackend/issues"
+  },
+  "homepage": "https://github.com/cneme23/practicaBackend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
